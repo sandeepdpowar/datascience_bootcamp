@@ -9,9 +9,9 @@ newlist[1] = "Almond Butter"
 print(newlist)
 # Remove "Jelly" from grocery list and print out the updated list
 
-newlist.Remove("Jelly")
+newlist.remove("Jelly")
 print(newlist)
 
 # Add "Coffee" to grocery list and print the updated list
-newlist.Append("Coffee")
+newlist.append("Coffee")
 print(newlist)

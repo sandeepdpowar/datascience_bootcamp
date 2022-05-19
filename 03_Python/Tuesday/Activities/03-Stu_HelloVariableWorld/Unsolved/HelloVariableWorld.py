@@ -14,7 +14,7 @@ hourly_wage = 85.5
 daily_wage = hourly_wage * 8
 
 # Create a variable called 'satisfied' that holds a boolean
-satisfied = truw
+satisfied = True
 
 # Print out "Hello <name>!"
 print(f"Hello {name}")
@@ -29,4 +29,4 @@ print(f"Age {age}")
 print(f"Daily wage {daily_wage}")
 
 # With an f-string, print out whether the users were satisfied
-print(f"User was satfied with the wage {satisfied")
+print(f"User was satisfied with the wage {satisfied}")
